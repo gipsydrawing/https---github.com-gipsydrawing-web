@@ -53,8 +53,8 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
+    name = "ilustraciones"
+    url = "page/ilustraciones/"
     weight = 1
 
 [[menu.main]]
@@ -86,6 +86,6 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    name = "Tags"
+    name = "Proyectos"
     url = "tags"
     weight = 3
