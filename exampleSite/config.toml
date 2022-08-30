@@ -1,7 +1,7 @@
-baseurl = "https://gipsydrawing.netlify.app/"
-DefaultContentLanguage = "es"
-#DefaultContentLanguage = "es"
-title = "Gipsydrawing"
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,11 +15,11 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Portfolio de Emilio jimenez "
+  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
-  logo = "img/logo.jpg" # Expecting square dimensions
+  logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "02/01/2006"
+  dateFormat = "January 2, 2006"
   commit = false
   rss = true
   comments = true
@@ -45,12 +45,36 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  email         = "emijj1993@hotmail.com"
-  twitter       = "/Gipsy_Drawing"
-  linkedin      = "/emilio-jimenez-jimenez-aa51b7228/"
-  instagram     = "/gipsydrawing93/"
-  youtube       = "/channel/UCHn7MohT8EYkZ6PnVC3OnFQ"
-
+  name = "Some Person"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = "username"
+  gitlab = "username"
+  bitbucket = "username"
+  twitter = "username"
+  reddit = "username"
+  linkedin = "username"
+  xing = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
+  spotify = "username"
+  bandcamp = "username"
+  itchio = "username"
+  vk = "username"
+  paypal = "username"
+  telegram = "username"
+  500px = "username"
+  codepen = "username"
+  mastodon = "url"
+  kaggle = "username"
+  weibo = "username"
+  slack = "username"
+  discord = "invite code (https://discord.gg/XXXXXXX)"
+  strava = "userid"
 
 [[menu.main]]
     name = "Blog"
