@@ -1,15 +1,13 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mí
+subtitle: 
 comments: false
 ---
+ Mi nombre es **Emilio Jiménez**  
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- apasionado del dibujo y la informática
+- ilustrador con años de experiencia profesional
+- support it 
 
 ### my history
 

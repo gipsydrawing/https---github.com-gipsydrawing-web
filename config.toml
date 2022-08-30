@@ -58,8 +58,8 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "sobre mí"
+    url = "page/sobre-mi/"
     weight = 3
 
 [[menu.main]]
