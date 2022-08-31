@@ -43,20 +43,21 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Contenido"
     name = "Ilusraciones"
-    url = "page/ilustraciones/"
+    url = "pagina/ilustraciones/"
     weight = 1
 
 [[menu.main]]
     parent = "Contenido"
     name = "videos"
-    url = "page/videos/"
-    weight = 2
-[[menu.main]]
-    name = "sobre mí"
-    url = "page/sobre-mi/"
+    url = "pagina/videos/"
     weight = 2
 
 [[menu.main]]
+    name = "sobre mí"
+    url = "pagina/sobre-mi/"
+    weight = 4
+
+[[menu.main]]
     name = "Proyectos"
-    url = "page/proyectos"
+    url = "pagina/proyectos"
     weight = 3
