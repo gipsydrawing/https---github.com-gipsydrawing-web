@@ -3,4 +3,15 @@ title: Videos
 subtitle: 
 comments: true
 ---
-[![Alt text](/img/samurai.jpg)](https://www.youtube.com/watch?v=configuroweb)
+{{< youtube c0CL508-ZKs >}}
+
+---
+
+{{< youtube 8iA-WQTC4cU >}}
+
+---
+
+{{< youtube jy4mZVbGYuE >}}
+
+---
+{{< youtube HrpAgKnltLw >}}

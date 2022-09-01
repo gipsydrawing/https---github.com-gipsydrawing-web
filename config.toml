@@ -53,6 +53,12 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
+    parent = "Contenido"
+    name = "animaciones"
+    url = "pagina/animaciones/"
+    weight = 3
+
+[[menu.main]]
     name = "sobre mí"
     url = "pagina/sobre-mi/"
     weight = 4
