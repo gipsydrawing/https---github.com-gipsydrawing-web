@@ -1,8 +1,27 @@
----
-title: Ilustraciones
-subtitle: 
-comments: false
----
+Distintos ejemplos de subir imagenes locales
+
+Forma nº1
+----------------
+![This is me][1]
+
+[1]: /img/samurai.jpg
+![This is me][2]
+
+[2]: /img/luke.jpg
+![This is me][3]
+
+[3]: /img/camaronV2.jpg
+![This is me][4]
+
+[4]: /img/saiyan.jpg
+![This is me][5]
+
+[5]: /img/poster2.jpg
+
+
+------------------
+Forma nº2 galería
+------------------
 
 {{< gallery >}}
 {{< figure link="/img/samurai.jpg" caption="Samurái" >}}
@@ -11,5 +30,8 @@ comments: false
 {{< figure link="/img/luke.jpg" caption="Luke skywalker" >}}
 {{< figure link="/img/saiyan.jpg" caption="Luke skywalker" >}}
 {{< figure link="/img/poster2.jpg" caption="Luke skywalker" >}}
+{{< figure link="/img/pelea.gif" caption="Animación para clientes en ``upwork´´ " >}}
 {{< figure link="/img/portada.jpg" caption="Portada de cuento infantil: Estrella y la pulsera de los tiempos" >}}
 {{< /gallery >}}
+
+-------------------
