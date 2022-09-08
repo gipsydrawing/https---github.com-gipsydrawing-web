@@ -13,3 +13,5 @@ comments: false
 {{< figure link="/img/poster2.jpg" caption="Luke skywalker" >}}
 {{< figure link="/img/portada.jpg" caption="Portada de cuento infantil: Estrella y la pulsera de los tiempos" >}}
 {{< /gallery >}}
+
+{{<analitics>}}

@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "G-CXZELW0J9H"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -67,3 +67,4 @@ pygmentsCodefencesGuessSyntax = true
     name = "Proyectos"
     url = "pagina/proyectos"
     weight = 3
+
