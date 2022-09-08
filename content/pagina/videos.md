@@ -21,6 +21,5 @@ Algunos Timelapses de mis ilustraciones.
 
 -------
 
-# Últimos videos en tiktok
 
 {{<tiktokfeed>}}
