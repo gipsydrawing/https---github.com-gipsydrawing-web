@@ -12,6 +12,8 @@ comments: false
 {{< figure link="/img/saiyan.jpg" caption="Luke skywalker" >}}
 {{< figure link="/img/poster2.jpg" caption="Luke skywalker" >}}
 {{< figure link="/img/portada.jpg" caption="Portada de cuento infantil: Estrella y la pulsera de los tiempos" >}}
+{{< figure link="/img/01.jpg" caption="José Meco actor de doblaje comission" >}}
+{{< figure link="/img/mask.jpg" caption="comisión de NFT" >}}
 {{< /gallery >}}
 
 ---------
